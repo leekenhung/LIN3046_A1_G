@@ -4,23 +4,23 @@ Purpose: The purpose of data collection in movie dialogue is to gather informati
 
 The scope of the data collection: involves studying dialogue across various genres, languages, and cultures to identify common themes, persuasive language, and effective communication techniques that can be applied in everyday conversations.
 
-Metadata list: the blog is to collect data for movie dlalogue. This blog include different types of movie and character famous lines in the scene. (http://www.tasteofcinema.com/2016/the-20-best-dialogue-scenes-in-cinema-history/)http://www.tasteofcinema.com/2016/the-20-best-dialogue-scenes-in-cinema-history/)
+Metadata list: the blog is to collect data for movie dialogue. This blog includes different types of movies and character famous lines in the scene. (http://www.tasteofcinema.com/2016/the-20-best-dialogue-scenes-in-cinema-history/)http://www.tasteofcinema.com/2016/the-20-best-dialogue-scenes-in-cinema-history/)
 
-File organisation: All the movie dialogue is in text file.
+File organization: All the movie dialogue is in the text file.
 
-Languag : all the movie dialogue are in English.
+Language: all the movie dialogue is in English.
 
-Layout: The layout of eact text file is :
+Layout: The layout of each text file is :
 Movie name
 Release date of the movie
 Movie genre
 Movie dialogue
-Senario description
+Scenario description
 
-Division of labour:
-Lee Kam Hung Ken 11488714 : find 10 movie dialogue to collect the data.
-Hung Tsz Lok Oscar 11485750 : find 10 movie dialogue to collect the data.
-## File Format
+Division of labor:
+Lee Kam Hung Ken 11488714: find 10 movie dialogues to collect the data.
+Hung Tsz Lok Oscar 11485750: find 10 movie dialogues to collect the data.
+
 
 
 
